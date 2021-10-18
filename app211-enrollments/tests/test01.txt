@@ -1,0 +1,28 @@
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BT1GDV1: gamedev
+
+ Module credit: 0 Title: programming concepts
+
+ Student ID: 22015039 Name: maciej
+ Module credit: 0 Title: programming concepts
+
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BT1GDV1: gamedev
+
+ Module credit: 0 Title: programming concepts
+
+course2.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BT1GDV1: gamedev
+
+ Module credit: 0 Title: programming concepts
+
